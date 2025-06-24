@@ -49,6 +49,6 @@ I’m currently transitioning from academia to **professional data analysis**, a
 ### 📢 Let’s Connect
 
 📍 Based in Abuja, Nigeria
-🔗 [LinkedIn](#) | ✉️ \[[YourEmail@example.com](mailto:YourEmail@example.com)]
+🔗 [LinkedIn](www.linkedin.com/in/muhammad-bello) | ✉️ \[[bellomuhammad992@gmail.com](mailto:YourEmail@example.com)]
 
 I'm open to **data analyst** roles (remote or onsite) in business, health, research, or sustainability domains. Let’s work together to turn your data into insight.
