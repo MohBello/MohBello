@@ -18,7 +18,7 @@ It will be a pleasure to drive actionable insights by leveraging data to answer 
 ### 🔧 Core Skills
 
 * **Languages & Tools:**
-  `Python`, `R`, `SQL`, `Excel`, `Power BI`, `Google Sheets`, `Tableau`
+  `Python`, `R`, `SQL`, `Excel`, `Google Sheets`, `Power BI`
 
 * **Key Techniques:**
 
