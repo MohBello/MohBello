@@ -2,9 +2,16 @@
 
 ### Data Analyst | Insight Generator | Problem Solver
 
-I’m a **results-driven data analyst** skilled in turning data into actionable insights that inform business strategy and drive performance. With hands-on experience in **data wrangling, visualization, and statistical modeling**, I thrive at the intersection of data, logic, and storytelling.
+Hi there! 👋  
+I'm Muhammad Bello — a **data analyst** with a background in **biology and fisheries**, now building impactful solutions at the intersection of **data, analytics, and business intelligence**.
 
-I’m passionate about using data to answer complex questions—whether it's uncovering trends, optimizing processes, or building tools for informed decision-making.
+With strong skills in **SQL, Excel, R, Python**, and data visualization tools, I transform raw data into insights that support informed decision-making. My work spans **data wrangling**, **statistical modeling**, and **storytelling with data**, backed by academic and research experience.
+
+Currently transitioning into the tech industry, I’m passionate about solving real-world problems using data and continuously building projects that showcase analytical thinking, clarity, and value.
+
+It will be a pleasure to drive actionable insights by leveraging data to answer complex questions—whether it’s uncovering trends, optimizing processes, or building tools for informed decision-making.
+
+🚀 Let’s connect and explore the power of data together.
 
 ---
 
@@ -16,11 +23,11 @@ I’m passionate about using data to answer complex questions—whether it's unc
 * **Key Techniques:**
 
   * Exploratory Data Analysis (EDA)
+  * Dashboard Design & Reporting Automation
+  * Data Cleaning & Transformation
   * Statistical Testing & Inference
   * Predictive Modeling (Regression, Classification)
   * Time Series Analysis
-  * Dashboard Design & Reporting Automation
-  * Data Cleaning & Transformation
 
 * **Libraries & Packages:**
   `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`,
