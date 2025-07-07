@@ -22,9 +22,9 @@ It will be a pleasure to drive actionable insights by leveraging data to answer 
 
 * **Key Techniques:**
 
+  * Data Cleaning & Transformation
   * Exploratory Data Analysis (EDA)
   * Dashboard Design & Reporting Automation
-  * Data Cleaning & Transformation
   * Statistical Testing & Inference
   * Predictive Modeling (Regression, Classification)
   * Time Series Analysis
