@@ -75,10 +75,10 @@ Random Forest and Prophet-based system for multi-year forecasting of reservoir p
 ### 🔬 Research & Impact
 
 Over 8 years of experience as a **researcher & data analyst** in aquatic systems — focusing on linking biological performance to environmental dynamics through data.  
-Currently invlolved in developing a Data Science Blueprint for model-driven research framework combining in Ahmadu Bello University:
-- AI-assisted aquaculture monitoring  
+Currently involved in developing a Data Science Blueprint — a model-driven research framework that integrates artificial intelligence, machine learning, and environmental analytics within the context of fisheries and aquaculture at Ahmadu Bello University, Zaria:
 - Automated data cleaning pipelines  
 - Predictive and prescriptive analytics for decision support  
+- AI-assisted aquaculture monitoring
 
 My mission is to advance **data-driven sustainability** in fisheries and aquaculture through machine learning and intelligent automation.
 
