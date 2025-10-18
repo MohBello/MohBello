@@ -49,7 +49,7 @@ Developing predictive systems that use sensor, satellite, and IoT data to track 
 `R`, `Python`, `statsmodels`, `SciPy`, `caret`, `tidymodels`
 
 #### 🧰 **Other Tools**
-`VS Code`, `Jupyter`, `GitHub Actions`, `Linux`, `Streamlit`
+`VS Code`, `Jupyter`, `Streamlit`
 
 ---
 
