@@ -17,9 +17,6 @@ My work focuses on integrating **computer vision**, **neural networks**, and **p
 🐟 **AI in Aquaculture Systems**  
 Building models for fish growth prediction, feed optimization, and real-time behavior monitoring using ML and deep learning.
 
-🌱 **Environmental Intelligence**  
-Developing predictive systems that use sensor, satellite, and IoT data to track water quality, nutrient cycling, and ecosystem health.
-
 📷 **Computer Vision for Aquatic Monitoring**  
 Using CNNs and YOLO-based architectures for fish detection, counting, and biomass estimation from underwater video data.
 
@@ -28,6 +25,9 @@ Leveraging time-series forecasting and ensemble learning to anticipate changes i
 
 🧬 **Microbiome and Bioinformatics Analytics**  
 Applying AI-based pattern recognition and unsupervised learning to uncover relationships between microbial diversity, water parameters, and host health.
+
+🌱 **Environmental Intelligence**  
+Developing predictive systems that use sensor, satellite, and IoT data to track water quality, nutrient cycling, and ecosystem health.
 
 ---
 
