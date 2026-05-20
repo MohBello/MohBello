@@ -87,8 +87,8 @@ My mission is to advance **data-driven sustainability** in fisheries and aquacul
 ### 📚 Education & Background
 
 🎓 **Ph.D. (in progress)** – Fisheries Science  
-🎓 **M.Sc.** – Fisheries (Aquatic Biology & Ecology)  
-🎓 **B.Sc.** – Biology  
+🎓 **M.Sc.** – Fisheries 
+🎓 **B.Sc.** – Biology (General Biology & Ecology)  
 
 ---
 
